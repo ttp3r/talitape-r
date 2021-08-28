@@ -1,4 +1,4 @@
- ## Talita 💫
+ ## <h1>Talita</h1> 💫
 <h3>
  
  💻 Linguagens que estou aprendendo:
