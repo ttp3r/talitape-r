@@ -1,5 +1,6 @@
  <div>
 <img height="250em" src="https://github-readme-stats.vercel.app/api?username=talitape-r&show_icons=true&theme=radical&include_all_commits=true"/>
+ <h6>No tema escuro fica mais bonitinho ✨</h6>
 </div>
 </div>  
 <h3>
