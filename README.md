@@ -1,7 +1,7 @@
  ## Talita 💫
 <h3>
  
-## 💻 Linguagens que estou aprendendo:
+ 💻 Linguagens que estou aprendendo:
 <div style="display: inline_block"><br>
   <img align="center" alt="talitape-r" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
