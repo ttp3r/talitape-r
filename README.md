@@ -22,7 +22,7 @@
   ##
 
   <div>
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talitape-r&layout=compact&langs_count=7&theme=radical&include"/>
+ <img height="157em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talitape-r&layout=compact&langs_count=7&theme=radical&include"/>
  <img height="158em" src="https://github-readme-stats.vercel.app/api?username=talitape-r&show_icons=true&theme=radical&include_all_commits=true"/>
  <h6>Ps: No tema escuro fica mais bonitinho ✨</h6>
 </div>
