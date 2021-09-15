@@ -23,7 +23,7 @@
 
   <div>
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=talitape-r&show_icons=true&theme=radical&include_all_commits=true"/>
- <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talitape-r&layout=compact&langs_count=7&theme=dracula"/>
  <h6>Ps: No tema escuro fica mais bonitinho ✨</h6>
 </div>
 </div> 
